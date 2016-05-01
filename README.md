@@ -31,7 +31,7 @@ Creating a new state
 ----------------
 
 A state consists in a file that contains the **state** object, along with its load/unload, update and draw methods.
-It should follow the following structure:
+It should follow this structure:
 
 game.lua
 ```lua
